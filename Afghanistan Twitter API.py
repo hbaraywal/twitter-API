@@ -1,3 +1,5 @@
+#this code generates and collects 3000 tweets that mentions 'Afghanistan' in it since August 15, 2021, the day when the Afghanistan government collapsed.
+
 import tweepy
 from tweepy import *
  
